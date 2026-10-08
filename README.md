@@ -24,8 +24,10 @@ Data period: November 2020 – January 2021 (349,545 sessions, 33,538 orders).
 
 Business Impact:
 This dashboard empowers stakeholders to make data-driven decisions, optimize marketing spend, and focus resources on the most profitable market segments.
+
 ## 🛠 Tech Stack
 - **Data Visualization:** Tableau Public
+- **Data source:** Google BigQuery
 
 ## 🔗 Project Links
 - [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/E_commerce_17498228881310/ComprehensiveE-commerceSalesandUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
